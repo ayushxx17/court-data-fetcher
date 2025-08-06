@@ -73,6 +73,23 @@ This project is part of my Python internship learning. Through this hands-on pro
 
 .🐞 Debugging backend logic
 
+## 📸 Live Screenshot
+
+### Form Page:
+![Form Page](screenshot-form.png.png)
+
+### Files:
+![Files](screenshot-files.png.png)
+
+### VScode Files:
+![VScode Files](screenshot-vscodefiles.png.png)
+
+### Runningcode:
+![Runningcode](screenshot-runningcode.png.png)
+
+
+
+
 👨‍💻 Author
 Ayush Singh
 🔗 GitHub: @ayushxx17
