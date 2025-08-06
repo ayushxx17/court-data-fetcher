@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Case Details</title>
+</head>
+<body>
+    <h2>Case Details</h2>
+    <p><strong>Case Type:</strong> {{ data.case_type }}</p>
+    <p><strong>Case Number:</strong> {{ data.case_number }}</p>
+    <p><strong>Filing Year:</strong> {{ data.filing_year }}</p>
+    <p><strong>Parties:</strong> {{ data.parties }}</p>
+    <p><strong>Filing Date:</strong> {{ data.filing_date }}</p>
+    <p><strong>Next Hearing Date:</strong> {{ data.next_hearing }}</p>
+    <p><strong>Order PDF:</strong> <a href="{{ data.pdf_url }}">Download PDF</a></p>
+    <br>
+    <a href="/">← Back to Search</a>
+</body>
+</html>
