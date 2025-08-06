@@ -79,7 +79,7 @@ This project is part of my Python internship learning. Through this hands-on pro
 [Form Page](screenshot-form.png)
 
 ### Files:
-[Files](screenshot-files.png)
+[Files](Screenshot-files.png)
 
 ### VScode Files:
 Screenshot -vscodefiles.png
