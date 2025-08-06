@@ -82,7 +82,7 @@ This project is part of my Python internship learning. Through this hands-on pro
 [Files](screenshot-files.png)
 
 ### VScode Files:
-[VScode Files](Screenshot -vscodefiles.png)
+Screenshot -vscodefiles.png
 
 ### Runningcode:
 [Runningcode](screenshot-runningcode.png)
