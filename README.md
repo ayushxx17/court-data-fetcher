@@ -65,7 +65,7 @@ Now you can enter case details and view the fetched results.
 ## 📸 Live Screenshot
 
 ### Screenshot of Form Page:
-![Form Page](assets/screenshot-form.png)
+![Form Page](assets/screenshot-form.png.png)
 
 ### Screenshot of Running code:
 ![Running code](assets/Screenshot-runningcode.png)
