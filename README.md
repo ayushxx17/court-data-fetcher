@@ -39,7 +39,7 @@ court-data-fetcher/
 ### step 2: Download ChromeDriver
 ### Step 3: Run the App
 
-###step 1: Install Required Libraries
+
 Make sure Python is installed. Then open a terminal and run:
 
 ```bash
