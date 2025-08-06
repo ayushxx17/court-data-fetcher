@@ -76,16 +76,16 @@ This project is part of my Python internship learning. Through this hands-on pro
 ## 📸 Live Screenshot
 
 ### Form Page:
-![Form Page](screenshot-form.png)
+[Form Page](screenshot-form.png)
 
 ### Files:
-![Files](screenshot-files.png)
+[Files](screenshot-files.png)
 
 ### VScode Files:
-![VScode Files](screenshot-vscodefiles.png)
+[VScode Files](Screenshot -vscodefiles.png)
 
 ### Runningcode:
-![Runningcode](screenshot-runningcode.png)
+[Runningcode](screenshot-runningcode.png)
 
 
 
