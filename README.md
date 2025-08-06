@@ -82,7 +82,7 @@ This project is part of my Python internship learning. Through this hands-on pro
 [Files](Screenshot-files.png)
 
 ### VScode Files:
-[vscode](https://github.com/ayushxx17/court-data-fetcher/blob/main/Screenshot%20-vscodefiles.png?raw=true)
+[vscode](assets/Screenshot -vscodefiles.png.png)
 
 ### Runningcode:
 [Runningcode](screenshot-runningcode.png)
