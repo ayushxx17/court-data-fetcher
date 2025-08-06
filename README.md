@@ -62,15 +62,20 @@ Then open your browser and visit:
 http://127.0.0.1:5000
 Now you can enter case details and view the fetched results.
 
-📸 Live Screenshot
- ### Screenshot of Form Page:
-![Form Page](assets/screenshot-form.png.png)
- ### Screenshot of Running code:
-![Running code](assets/Screenshot-runningcode.png.png)
- ### Screenshot of files:
-![Files](assets/Screenshot-files.png.png)
- ### Screenshot of vscode:
-![vscode](assets/Screenshot-vscodefiles.png.png)
+## 📸 Live Screenshot
+
+### Screenshot of Form Page:
+![Form Page](assets/screenshot-form.png)
+
+### Screenshot of Running code:
+![Running code](assets/Screenshot-runningcode.png)
+
+### Screenshot of files:
+![Files](assets/Screenshot-files.png)
+
+### Screenshot of VS Code:
+![VS Code](assets/Screenshot-vscodefiles.png)
+
 
 
 
