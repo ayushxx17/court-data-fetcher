@@ -62,6 +62,11 @@ Then open your browser and visit:
 http://127.0.0.1:5000
 Now you can enter case details and view the fetched results.
 
+📸 Live Screenshot
+ ### Screenshot of Form Page:
+![Form Page](assets/form_page.png)
+
+
 📌 Why I Made This
 This project is part of my Python internship learning. Through this hands-on project, I practiced:
 
@@ -72,23 +77,6 @@ This project is part of my Python internship learning. Through this hands-on pro
 .🧾 HTML templating
 
 .🐞 Debugging backend logic
-
-## 📸 Live Screenshot
-
-### Form Page:
-[Form Page](screenshot-form.png)
-
-### Files:
-[Files](Screenshot-files.png)
-
-### VScode Files:
-[vscode](assets/Screenshot -vscodefiles.png.png)
-
-### Runningcode:
-[Runningcode](screenshot-runningcode.png)
-
-
-
 
 👨‍💻 Author
 Ayush Singh
