@@ -8,5 +8,5 @@ print(sum)
 
 # int func change into str.
 x = 3.14
-x = int(x)
+x = str(x) # we can change it into any type.
 print(type(x)) 

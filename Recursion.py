@@ -31,7 +31,7 @@ sum = cal_sum(5)
 print(sum)"""
 
 #Q2
-
+"""
 def print_list(list, idx=0):
     if(idx == len(list)):
        return 
@@ -41,4 +41,4 @@ def print_list(list, idx=0):
 
 fruits = ["Mango", "Banana", "Litchi", "Watermelon", "Apple"]
 
-print_list(fruits)      
+print_list(fruits)   """   

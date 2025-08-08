@@ -14,5 +14,6 @@ print("and operator : ", val1 and val2)
 
 # or operator means if any one value is true then ans will be true
 
-print("or operator : ", val1 or val2)
+print("or operator : ", val1 or val2) # also used for exp e.g (a==b) or (a>b) ans will True
+
 

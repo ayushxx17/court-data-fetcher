@@ -91,8 +91,9 @@ print(df)
 df.drop('Salary', axis=1)   # it temprory drop a column again it will show when we give command(print(df))
 print(df)
 
-df.drop('Salary', axis=1, inplace=True)  # it permantely drop the column.
+df.drop('Salary', axis=1, inplace=True)  # it permantely drop the column, axis=1 it means accesing of colmn not row whwn axis=0 it means rows.
 print(df)
 
-df.drop(0,inplace=True)
+df.drop(0,inplace=True)   # drop column permanetly.
 print(df)
+

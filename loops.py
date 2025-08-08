@@ -128,6 +128,7 @@ for i in range(10):
 for i in range(2, 10):
     print(i)"""
 
+# e.g. 
 
 for i in range(2, 100, 2):
     print(i)

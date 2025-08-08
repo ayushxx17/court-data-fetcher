@@ -19,4 +19,5 @@ print(str6+str7)
 #Length of str
 len1 = len(str1)
 print(len1)
+# another method
 print(len(str1))

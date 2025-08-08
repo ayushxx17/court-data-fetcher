@@ -2,17 +2,69 @@
 <html>
 <head>
     <title>Court Case Fetcher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 500px;
+            margin: 30px auto;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            font-weight: bold;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .error {
+            color: red;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
     <h1>Search Court Case Details</h1>
+
+    {% if error %}
+        <div class="error">{{ error }}</div>
+    {% endif %}
+
     <form method="POST" action="/fetch">
         <label>Case Type:</label>
-        <input type="text" name="case_type" required><br><br>
+        <input type="text" name="case_type" value="{{ request.form.get('case_type', '') }}" required>
+
         <label>Case Number:</label>
-        <input type="text" name="case_number" required><br><br>
+        <input type="text" name="case_number" value="{{ request.form.get('case_number', '') }}" required>
+
         <label>Filing Year:</label>
-        <input type="text" name="filing_year" required><br><br>
+        <input type="text" name="filing_year" value="{{ request.form.get('filing_year', '') }}" required>
+
         <button type="submit">Fetch</button>
     </form>
 </body>
 </html>
+
