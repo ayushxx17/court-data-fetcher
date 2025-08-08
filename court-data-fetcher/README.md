@@ -59,19 +59,20 @@ Then open your browser and visit:
 http://127.0.0.1:5000
 Now you can enter case details and view the fetched results.
 
-## 📸 Live Screenshots
+## 📸 Live Screenshot
 
 ### Screenshot of Form Page:
 ![Form Page](assets/screenshot-form.png)
 
-### Screenshot of Running Code:
-![Running code](assets/Screenshot-runningcode.png)
+### Screenshot of Running code:
+![Running code](assets/screenshot-runningcode.png)
 
-### Screenshot of Files:
-![Files](assets/Screenshot-files.png)
+### Screenshot of files:
+![Files](assets/screenshot-files.png)
 
 ### Screenshot of VS Code:
-![VS Code](assets/Screenshot-vscodefiles.png)
+![VS Code](assets/screenshot-vscodefiles.png)
+
 
 📌 Why I Made This
 This project is part of my Python internship learning. Through this hands-on project, I practiced:
